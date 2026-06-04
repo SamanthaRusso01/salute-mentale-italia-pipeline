@@ -1,6 +1,6 @@
 # 🧠 Analisi della Salute Mentale in Italia: Pipeline di Data Analysis (2015-2024)
 
-Un progetto che ha L'obiettivo di **tracciare l'evoluzione della salute mentale in Italia** attraverso dati ufficiali, analizzando l'impatto demografico, le risposte dei servizi territoriali e i divari geografici, di genere e anagrafici.
+Un progetto che ha L'obiettivo di ***tracciare l'evoluzione della salute mentale in Italia*** attraverso dati ufficiali, analizzando l'impatto demografico, le risposte dei servizi territoriali e i divari geografici, di genere e anagrafici.
 
 ---
 
