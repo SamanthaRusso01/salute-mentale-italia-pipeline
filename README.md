@@ -13,7 +13,7 @@ Questo portfolio dimostra le competenze tecniche richieste per un ruolo di **Jun
 
 ---
 
-## 🛠️ Tech Stack & Competenze Dimostrate
+## Tech Stack & Competenze Dimostrate
 - **Data Architecture & Cleaning:** `SQL` per la pulizia, la normalizzazione delle tabelle ISTAT e la creazione di uno Schema a Stella.
 - **Advanced Analytics:** `Python` (`pandas`, `matplotlib`, `seaborn`) per l'Analisi Esplorativa dei Dati (EDA) e lo studio dei trend storici.
 - **Data Visualization & Storytelling:** `Power BI` (`DAX`, `Data Modeling`) per la creazione di una dashboard interattiva e parlante per gli stakeholder.
@@ -24,11 +24,11 @@ Questo portfolio dimostra le competenze tecniche richieste per un ruolo di **Jun
 ## 📁 Struttura della Repository
 La cartella di lavoro segue le pratiche standard di organizzazione dei progetti dati:
 - 📁 `data/raw/` : Contiene i file sorgente originali non modificati:
-  - 📄 *File PDF 1*: Analisi del 2021 sulla salute mentale in Italia (il documento di contesto da cui è nato l'idea del progetto).
-  - 📄 *File PDF 2*: Ultimo Report completo del Ministero della Salute - 2024.
-  - 📄 *File PDF 3*: Sintesi ufficiale dei risultati dell'ultimo Report del Ministero della Salute.
-  - 📊 *File Excel 1*: Tabelle dati - Rapporto SISM_appendice_2024.
-  - 📊 *File Excel 2*: Tabelle dati - Rapporto SISM_tabelle_2024. 
+  - *File PDF 1*: Analisi del 2021 sulla salute mentale in Italia (il documento di contesto da cui è nato l'idea del progetto).
+  - *File PDF 2*: Ultimo Report completo del Ministero della Salute - 2024.
+  - *File PDF 3*: Sintesi ufficiale dei risultati dell'ultimo Report del Ministero della Salute.
+  - *File Excel 1*: Tabelle dati - Rapporto SISM_appendice_2024.
+  - *File Excel 2*: Tabelle dati - Rapporto SISM_tabelle_2024. 
 - 📁 `data/processed/` : Dataset puliti e pronti per l'analisi.
 - 📁 `sql/` : Script `.sql` per la creazione del database, viste e query analitiche.
 - 📁 `notebooks/` : Jupyter Notebook dedicati all'analisi statistica in Python.
@@ -36,7 +36,7 @@ La cartella di lavoro segue le pratiche standard di organizzazione dei progetti 
 
 ---
 
-## 📈 Pipeline del Progetto (In Corso)
+## Pipeline del Progetto (In Corso)
 - [x] **Fase 0:** Setup dell'ambiente, definizione della struttura e dei dati di partenza.
 - [ ] **Fase 1 (SQL):** Importazione dei file Excel grezzi, gestione dei valori nulli/duplicati e modellazione del Database (Star Schema).
 - [ ] **Fase 2 (Python):** Analisi esplorativa dei dati, calcolo delle variazioni percentuali storiche e correlazioni statistiche.
