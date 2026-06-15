@@ -39,7 +39,7 @@ Il progetto segue una progressione narrativa logica, dal profilo dell'utenza all
 ## 📁 Struttura della Repository
 
 ```
-sism-2024-mental-health-italy/
+salute-mentale-italia-pipeline/
 │
 ├── data/
 │   ├── raw/                  # File originali — non modificarti
