@@ -118,7 +118,7 @@ Visualizzazioni principali: mappa coropleta delle regioni italiane · piramide d
 
 **Samantha Russo**  
 Laurea in Psicologia · Corso professionalizzante in Data Analytics  
-www.linkedin.com/in/samantha-russo-6756481b2(#) · https://github.com/SamanthaRusso01(#)
+https://www.linkedin.com/in/samantha-russo-6756481b2/(#) · https://github.com/SamanthaRusso01(#)
 
 ---
 
